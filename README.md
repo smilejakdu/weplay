@@ -10,8 +10,8 @@
     <td>23</td>
 </tr>
 <tr>
-    <td>8</td>
-    <td>9</td>
+    <td>asldkfhasdlfhasldkfh</td>
+    <td>아리가또</td>
     <td>4</td>
     <td>3</td>
     <td>22</td>
