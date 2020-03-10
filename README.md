@@ -18,7 +18,7 @@
 </tr>
 <tr>
     <td>6</td>
-    <td>12</td>
+    <td>(12)</td>
     <td>25</td>
     <td>11</td>
     <td>21</td>
